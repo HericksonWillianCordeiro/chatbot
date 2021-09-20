@@ -4,7 +4,7 @@
 : Olá qual o seu nome?
 #ele vai pedir seu nome, se teu nome tiver na lista responderá Eaew(nome) se não, Muito prazer(nome)
 
->: Aprende
+: Aprende
 #utilize o comando aprende para ensinar o bot alguma frase
 
 : Digite a frase: Hello World!
@@ -13,3 +13,4 @@
 
 :tchau
 #diga tchau para finalizar o bot
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
