@@ -2,22 +2,22 @@
 
 ## Digite qualquer frase, exemplo (Oi)
 
-: Oi
+input: Oi
 
-: Olá qual o seu nome?
+input: Olá qual o seu nome?
 
 ##ele vai pedir seu nome, se teu nome tiver na lista responderá Eaew(nome) se não, Muito prazer(nome)
 
-: Aprende
+input: Aprende
 
 ##utilize o comando aprende para ensinar o bot alguma frase
 
-: Digite a frase: Hello World!
+input: Digite a frase: Hello World!
 
-: Digite a resposta: Olá Mundo!
+input: Digite a resposta: Olá Mundo!
 
 ##sempre que digitar (Hello Wolrd) ele retornará (Olá Mundo!)
 
-:tchau
+input:tchau
 
 ##diga tchau para finalizar o bot
